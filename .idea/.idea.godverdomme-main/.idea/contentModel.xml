@@ -1,0 +1,109 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ContentModelStore">
+    <e p="C:\Users\stijn\AppData\Local\JetBrains\Rider2020.2\extResources" t="IncludeRecursive" />
+    <e p="C:\Users\stijn\AppData\Local\JetBrains\Rider2020.2\resharper-host\Local\Transient\Rider\v202\SolutionCaches\_godverdomme-main.1522548257.00" t="ExcludeRecursive" />
+    <e p="C:\Users\stijn\Desktop\Koenibald Game def\godverdomme-main" t="IncludeRecursive">
+      <e p="Assembly-CSharp-Editor.csproj" t="IncludeRecursive" />
+      <e p="Assembly-CSharp.csproj" t="IncludeRecursive" />
+      <e p="Assets" t="Include">
+        <e p="AdvancedPolygonCollider" t="Include">
+          <e p="Script" t="Include">
+            <e p="AdvancedPolygonCollider.cs" t="Include" />
+            <e p="AdvancedPolygonColliderUtilities.cs" t="Include" />
+            <e p="Editor" t="Include">
+              <e p="AdvancedPolygonColliderEditor.cs" t="Include" />
+            </e>
+          </e>
+        </e>
+        <e p="background.cs" t="Include" />
+        <e p="DeathTrigger.cs" t="Include" />
+        <e p="JMO Assets" t="Include">
+          <e p="Cartoon FX" t="Include">
+            <e p="CartoonFX Free.txt" t="Include" />
+            <e p="Demo" t="Include">
+              <e p="Assets" t="Include">
+                <e p="CFX_AutoStopLoopedEffect.cs" t="Include" />
+                <e p="CFX_Demo_New.cs" t="Include" />
+                <e p="CFX_Demo_RandomDir.cs" t="Include" />
+                <e p="CFX_Demo_RandomDirectionTranslate.cs" t="Include" />
+                <e p="CFX_Demo_RotateCamera.cs" t="Include" />
+                <e p="CFX_Demo_Translate.cs" t="Include" />
+              </e>
+            </e>
+            <e p="Scripts" t="Include">
+              <e p="CFX_AutoDestructShuriken.cs" t="Include" />
+              <e p="CFX_AutoRotate.cs" t="Include" />
+              <e p="CFX_LightFlicker.cs" t="Include" />
+              <e p="CFX_LightIntensityFade.cs" t="Include" />
+            </e>
+            <e p="Shaders" t="Include">
+              <e p="CFX3 Multiply Color.shader" t="Include" />
+              <e p="CFXM_MobileParticleAdd_Alpha8.shader" t="Include" />
+            </e>
+          </e>
+          <e p="Cartoon FX Easy Editor" t="Include">
+            <e p="CartoonFX Easy Editor Readme.txt" t="Include" />
+            <e p="Editor" t="Include">
+              <e p="CFXEasyEditor.cs" t="Include" />
+            </e>
+          </e>
+        </e>
+        <e p="MainMusicStopController.cs" t="Include" />
+        <e p="NetAnimation.cs" t="Include" />
+        <e p="PlayNetSound.cs" t="Include" />
+        <e p="Scripts" t="Include">
+          <e p="boatController.cs" t="Include" />
+          <e p="CameraController.cs" t="Include" />
+          <e p="Control.cs" t="Include" />
+          <e p="DeActivateCanvas.cs" t="Include" />
+          <e p="FinishedGameController.cs" t="Include" />
+          <e p="GameoverButton.cs" t="Include" />
+          <e p="GrowthController.cs" t="Include" />
+          <e p="LevelManager.cs" t="Include" />
+          <e p="mainMusicManager.cs" t="Include" />
+          <e p="PickUpController.cs" t="Include" />
+          <e p="PlayerController.cs" t="Include" />
+          <e p="SavedFishController.cs" t="Include" />
+          <e p="Scenes.cs" t="Include" />
+          <e p="SlugController.cs" t="Include" />
+          <e p="SoundController.cs" t="Include" />
+          <e p="Spear.cs" t="Include" />
+          <e p="treeGrower.cs" t="Include" />
+        </e>
+        <e p="SnailMovement.cs" t="Include" />
+        <e p="StartSchermScript.cs" t="Include" />
+        <e p="toink.cs" t="Include" />
+      </e>
+      <e p="Coffee.UIParticle.csproj" t="IncludeRecursive" />
+      <e p="Coffee.UIParticle.Editor.csproj" t="IncludeRecursive" />
+      <e p="godverdomme-main.sln" t="IncludeFlat" />
+      <e p="obj" t="ExcludeRecursive" />
+      <e p="Packages" t="ExcludeRecursive">
+        <e p="ParticleEffectForUGUI-3.3.5" t="Include">
+          <e p="ParticleEffectForUGUI-3.3.5" t="Include">
+            <e p="Scripts" t="Include">
+              <e p="AnimatableProperty.cs" t="Include" />
+              <e p="BakingCamera.cs" t="Include" />
+              <e p="Coffee.UIParticle.asmdef" t="Include" />
+              <e p="CombineInstanceEx.cs" t="Include" />
+              <e p="Editor" t="Include">
+                <e p="AnimatedPropertiesEditor.cs" t="Include" />
+                <e p="Coffee.UIParticle.Editor.asmdef" t="Include" />
+                <e p="ImportSampleMenu.cs" t="Include" />
+                <e p="UIParticleEditor.cs" t="Include" />
+                <e p="UIParticleMenu.cs" t="Include" />
+              </e>
+              <e p="MeshHelper.cs" t="Include" />
+              <e p="ModifiedMaterial.cs" t="Include" />
+              <e p="UIParticle.cs" t="Include" />
+              <e p="UIParticleUpdater.cs" t="Include" />
+              <e p="Utils.cs" t="Include" />
+            </e>
+          </e>
+        </e>
+      </e>
+      <e p="Temp\Bin" t="ExcludeRecursive" />
+    </e>
+  </component>
+</project>

@@ -1,0 +1,9 @@
+cfx firework trails gravity
+cfx2 wandering spirits
+cfx2 bigsplash no collision
+cfx3 hit light c air
+cfx3 hit light c air
+cfx3 hit misc d
+cfx4 hit paint c cyan
+cfx4 sparks eplosion b
+cfx4 magic hit

@@ -1,0 +1,74 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - FxTemporaire
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - Ground
+  - Player
+  - Background
+  - Enemy
+  - Platform
+  - Cleanables
+  - Projectile
+  - Savable
+  - 2ndenemy
+  - robot
+  - tree
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: background
+    uniqueID: 3029948053
+    locked: 0
+  - name: Floor
+    uniqueID: 1059195151
+    locked: 0
+  - name: ACHTER BRUIN
+    uniqueID: 762654139
+    locked: 0
+  - name: BRUIN
+    uniqueID: 1487014315
+    locked: 0
+  - name: Obstacle
+    uniqueID: 3472067255
+    locked: 0
+  - name: Decorations
+    uniqueID: 1100976327
+    locked: 0
+  - name: Enemy
+    uniqueID: 2511421051
+    locked: 0
+  - name: Player
+    uniqueID: 586405583
+    locked: 0
+  - name: New Layer
+    uniqueID: 1821032499
+    locked: 0
+  - name: koeni
+    uniqueID: 1604692487
+    locked: 0
